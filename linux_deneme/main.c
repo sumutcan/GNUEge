@@ -8,7 +8,8 @@ int main()
     printf("Yigitcan SENER; \n");
     printf("                                \n\nadli penguenlerinin, \n\n\nyazilim dunyasina ve github ailesine bir armaganidir. \n");
 
-    printf("umutcan burada bir seyler yapti");
+    printf("mustafa burada bir seyler yapti\n");
+    printf("conflict olsun istedim.");
 
 
     printf("     .--.  \n");
